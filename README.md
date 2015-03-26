@@ -1,6 +1,6 @@
 # screenshot-at-regular-time
 
-this is a screenshot tool by Python for **Windows**,it can get screenshot auto and regular.
+this is a screenshot tool `.bat script file` by Python for **Windows**,it can get screenshot auto and regular.
 
 ###if you want to use it
 
